@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <h3 align="center">A junior full stack developer from Amsterdam</h3>
-<iframe src="https://giphy.com/embed/TJgQUiCgA0sAqq9bQH" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TJgQUiCgA0sAqq9bQH">via GIPHY</a></p>
+
+https://giphy.com/gifs/TJgQUiCgA0sAqq9bQH/html5
 
 - 🔭 I’m currently working on [TravelFriends](https://github.com/StephBerg86/TravelFriends-FE)
 - 🌱 I’m currently learning **React, React Native, Redux, Express**
