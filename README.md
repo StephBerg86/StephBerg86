@@ -5,7 +5,7 @@ A junior full stack developer from Amsterdam
 
 🤓 I’m currently working on [TravelFriends](https://github.com/StephBerg86/TravelFriends-FE)
 
-🌱 I’m currently learning **React, React Native, Redux, Express @Codaisseur**
+🌱 I’m currently learning **React, React Native, Redux, Express **
 
 ![Alt Text](https://github.com/StephBerg86/StephBerg86/blob/master/Animated%20GIF-downsized_large.gif)
 
